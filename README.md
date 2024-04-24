@@ -5,3 +5,6 @@ My publisher program will send five data messages (five events of type `UserCrea
 b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?
 
 It means they are both connecting to the same AMQP message broker running on the local machine (localhost) on the default port 5672.
+
+- Running RabbitMQ
+![](static/Screenshot%202024-04-24%20130838.png)
