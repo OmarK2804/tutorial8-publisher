@@ -16,4 +16,4 @@ The subscriber received all five messages published by the publisher. Each messa
 
 - Monitoring chart
 ![](static/Screenshot%202024-04-24%20134322.png)
-The spikes show the message rates when each event batch (in this case 5 events simultaneously) is published.
+The spikes show the message rates when each event (in this case 5 events) is published.
