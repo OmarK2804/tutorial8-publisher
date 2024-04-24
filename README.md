@@ -8,3 +8,8 @@ It means they are both connecting to the same AMQP message broker running on the
 
 - Running RabbitMQ
 ![](static/Screenshot%202024-04-24%20130838.png)
+
+- Sending and processing event
+![](static/Screenshot%202024-04-24%20132205.png)
+![](static/Screenshot%202024-04-24%20132644.png)
+The subscriber received all five messages published by the publisher. Each message contains a user ID and a user name, and the subscriber program prints out each message it receives.
